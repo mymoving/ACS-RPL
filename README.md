@@ -1,1 +1,12 @@
 # ACS-RPL
+
+ACS RPL word 版模版可以从下面下载：
+https://www.acs.org.au/msa/acs-recognition-of-prior-learning-form.html
+
+上传的文件：
+ACS Recognition of Prior Learning (RPL) Form.docx  2023 版 ACS RPL docx template
+ACS-Project-Report-Form-2014 A.pdf  例子1
+ACS-Project-Report-Form-2014 B.pdf  例子2
+
+注意事项请参考 ACS 提供的 instructions：
+https://www.acs.org.au/content/dam/acs/acs-skills/ACS%20RPL%20Instruction%20document.pdf
