@@ -10,3 +10,8 @@ https://www.acs.org.au/msa/acs-recognition-of-prior-learning-form.html
 
 注意事项请参考 ACS 提供的 instructions：
 https://www.acs.org.au/content/dam/acs/acs-skills/ACS%20RPL%20Instruction%20document.pdf
+
+RPL 重点是要写明：
+- 你掌握的什么 ICT 知识
+- 怎么获得相应的知识的
+- 怎么在工作中使用的 （2个 project）
