@@ -15,3 +15,10 @@ RPL 重点是要写明：
 - 你掌握的什么 ICT 知识
 - 怎么获得相应的知识的
 - 怎么在工作中使用的 （2个 project）
+
+# Employment reference letter
+推荐信要求：
+https://www.acs.org.au/msa/infohub/employment-references.html
+
+推荐信 Sample：
+https://www.acs.org.au/content/dam/acs/acs-skills/Example%20Employment%20Reference.pdf
