@@ -22,3 +22,8 @@ https://www.acs.org.au/msa/infohub/employment-references.html
 
 推荐信 Sample：
 https://www.acs.org.au/content/dam/acs/acs-skills/Example%20Employment%20Reference.pdf
+
+# Payment evidence
+要求：
+https://www.acs.org.au/msa/infohub/payment-evidence.html
+
