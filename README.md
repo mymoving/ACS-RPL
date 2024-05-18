@@ -1,13 +1,14 @@
-# ACS 职业评估 ANZSCO 代码和 duties 要求
+# ACS 职业评估资料
+## ACS 职业评估 ANZSCO 代码和 duties 要求
 - 官方 page：https://www.acs.org.au/msa/information-for-applicants/occupations-anzsco-codes.html
 - https://www.acs.org.au/msa/information-for-applicants/occupations-anzsco-codes/information-technology.html
 - pdf：https://www.acs.org.au/msa/anzsco-code-information.html
 
-# 评估职业代码需要的课程
+## 评估职业代码需要的课程
 - 官方文档 https://www.acs.org.au/content/dam/acs/acs-skills/ANZSCO%20Code%20Information%20-%202017%20V4.pdf
 - 上面上传了一个 ANZSCO-Descriptions-2015.pdf 可以参考
 
-# Employment reference letter
+## Employment reference letter
 推荐信要求：
 https://www.acs.org.au/msa/infohub/employment-references.html
 
@@ -18,11 +19,11 @@ https://www.acs.org.au/content/dam/acs/acs-skills/Example%20Employment%20Referen
 - 推荐信里面的 duties 是最重要的部分，去参考下面文档，争取做到 80% 都 match
   https://www.acs.org.au/msa/anzsco-code-information.html
 
-# Payment evidence
+## Payment evidence
 要求：
 https://www.acs.org.au/msa/infohub/payment-evidence.html
 
-# ACS-RPL
+# RPL 文档
 
 ACS RPL word 版模版可以从下面下载：
 https://www.acs.org.au/msa/acs-recognition-of-prior-learning-form.html
