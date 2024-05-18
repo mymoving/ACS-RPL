@@ -23,6 +23,10 @@ https://www.acs.org.au/msa/infohub/employment-references.html
 推荐信 Sample：
 https://www.acs.org.au/content/dam/acs/acs-skills/Example%20Employment%20Reference.pdf
 
+注意点：
+- 推荐信里面的 duties 是最重要的部，争取做到 80% 都 match
+  
+
 # Payment evidence
 要求：
 https://www.acs.org.au/msa/infohub/payment-evidence.html
