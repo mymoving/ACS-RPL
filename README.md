@@ -1,4 +1,23 @@
 # ACS 职业评估资料
+
+# RPL 文档
+
+ACS RPL word 版模版可以从下面下载：
+https://www.acs.org.au/msa/acs-recognition-of-prior-learning-form.html
+
+上传的文件：
+- ACS Recognition of Prior Learning (RPL) Form.docx  ➡️ 这个是 2023 版 ACS RPL docx template
+- ACS-Project-Report-Form-2014 A.pdf  ➡️ 例子 1
+- ACS-Project-Report-Form-2014 B.pdf  ➡️ 例子 2
+
+注意事项请参考 ACS 提供的 instructions：
+https://www.acs.org.au/content/dam/acs/acs-skills/ACS%20RPL%20Instruction%20document.pdf
+
+RPL 重点是要写明：
+- 你掌握的什么 ICT 知识
+- 怎么获得相应的知识的
+- 怎么在工作中使用的 （2个 project）
+
 ## ACS 职业评估 ANZSCO 代码和 duties 要求
 - 官方 page：https://www.acs.org.au/msa/information-for-applicants/occupations-anzsco-codes.html
 - https://www.acs.org.au/msa/information-for-applicants/occupations-anzsco-codes/information-technology.html
@@ -22,23 +41,5 @@ https://www.acs.org.au/content/dam/acs/acs-skills/Example%20Employment%20Referen
 ## Payment evidence
 要求：
 https://www.acs.org.au/msa/infohub/payment-evidence.html
-
-# RPL 文档
-
-ACS RPL word 版模版可以从下面下载：
-https://www.acs.org.au/msa/acs-recognition-of-prior-learning-form.html
-
-上传的文件：
-- ACS Recognition of Prior Learning (RPL) Form.docx  ➡️ 这个是 2023 版 ACS RPL docx template
-- ACS-Project-Report-Form-2014 A.pdf  ➡️ 例子 1
-- ACS-Project-Report-Form-2014 B.pdf  ➡️ 例子 2
-
-注意事项请参考 ACS 提供的 instructions：
-https://www.acs.org.au/content/dam/acs/acs-skills/ACS%20RPL%20Instruction%20document.pdf
-
-RPL 重点是要写明：
-- 你掌握的什么 ICT 知识
-- 怎么获得相应的知识的
-- 怎么在工作中使用的 （2个 project）
 
 
