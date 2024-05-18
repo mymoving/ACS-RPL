@@ -5,6 +5,7 @@
 
 # 评估职业代码需要的课程
 - 官方文档 https://www.acs.org.au/content/dam/acs/acs-skills/ANZSCO%20Code%20Information%20-%202017%20V4.pdf
+- 上面上传了一个 ANZSCO-Descriptions-2015.pdf 可以参考
 
 # Employment reference letter
 推荐信要求：
