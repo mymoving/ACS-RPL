@@ -16,6 +16,9 @@ RPL 重点是要写明：
 - 怎么获得相应的知识的
 - 怎么在工作中使用的 （2个 project）
 
+## 评估职业代码需要的课程
+- 请参考 ANZSCO-Descriptions-2015.pdf 如果符合的比较多，有可能会被评为 ICT minor 少扣点经验
+
 # Employment reference letter
 推荐信要求：
 https://www.acs.org.au/msa/infohub/employment-references.html
