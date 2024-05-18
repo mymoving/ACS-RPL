@@ -24,8 +24,8 @@ https://www.acs.org.au/msa/infohub/employment-references.html
 https://www.acs.org.au/content/dam/acs/acs-skills/Example%20Employment%20Reference.pdf
 
 注意点：
-- 推荐信里面的 duties 是最重要的部，争取做到 80% 都 match
-  
+- 推荐信里面的 duties 是最重要的部分，去参考下面文档，争取做到 80% 都 match
+  https://www.acs.org.au/msa/anzsco-code-information.html
 
 # Payment evidence
 要求：
